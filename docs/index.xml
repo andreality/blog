@@ -6,121 +6,100 @@
     <description>Recent content on Andreality</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>sunk costs, expected value, and thinking like an economist</title>
-      <link>/2017/05/18/sunk-costs-expected-value-and-thinking-like-an-economist/</link>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      <link>/post/test/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/18/sunk-costs-expected-value-and-thinking-like-an-economist/</guid>
-      <description></description>
+      <guid>/post/test/</guid>
+      <description>test blog post</description>
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>whack-a-mole</title>
+      <link>/post/2016-03-22-mole/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>/post/2016-03-22-mole/</guid>
+      <description>I’m starting to feel like one of those forlorn sailors from old-timey days, shipwrecked in some god-forsaken land without food, beginning to seriously contemplate cannibalism as their compatriots&amp;rsquo; limbs start to more closely resemble juicy chicken drumsticks than fleshy appendages.
+Day 10: Still hurts. More elliptical. I wonder how difficult it would be to smash this thing? Where are those old golf clubs we have… But I jest - I truly don’t mind the elliptical.</description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>/post/2016-03-13-boston2016/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-03-13-boston2016/</guid>
+      <description>&#34;How did it get so late so soon? It&#39;s night before it&#39;s afternoon. December is here before it&#39;s June. My goodness how the time has flewn. How did it get so late so soon?&#34; - Dr.Seuss  I love having short hair - it requires a mere 90 seconds of attention each morning and has reduced my shampoo consumption at least ten-fold. The only drawback is it requires more frequent haircuts - every 4-5 weeks if I’m to avoid that perpetually disheveled, unkempt look.</description>
+    </item>
+    
+    <item>
+      <title>ironman muskoka race report</title>
+      <link>/post/2015-09-07-im-muskoka/</link>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-09-07-im-muskoka/</guid>
+      <description>Poor blog, this must be how you feel after an entire summer of neglect. The writing and computer-y projects I was excited about before Boston have not been compatible with warm weather, ironman training, and a busier-than-usual summer at work. But shorter days are signaling the demise of summer, and I find myself in a 5-week limbo between Ironman Muskoka and the Chicago marathon - a good time to retool and attend to everything that has taken a backseat to training over the past four months.</description>
+    </item>
+    
+    <item>
+      <title>schrödinger&#39;s stress fracture</title>
+      <link>/post/2015-04-03-schrodinger/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-04-03-schrodinger/</guid>
+      <description>It&amp;rsquo;s incredible what a week off from running can do. On the one hand I feel like I have so much energy I want to run 50 miles at marathon pace, while on the other my body seems to have forgotten all movement patterns associated with running. I used to experience this with swimming all the time - a couple of missed practices due to illness and my feel for the water vanished, at least for a day or two.</description>
+    </item>
+    
+    <item>
+      <title>serious juju</title>
+      <link>/post/2015-03-21-juju/</link>
+      <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-03-21-juju/</guid>
+      <description>Without any coordination, big A and I started our runs at the same time down to the minute, and went the same distance down to a tenth of a mile. Clearly we possess some sort of supernatural marital running synchronicity.</description>
+    </item>
+    
+    <item>
+      <title>over the hump</title>
+      <link>/post/2015-03-12-over-the-hump/</link>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-03-12-over-the-hump/</guid>
+      <description>I felt a sense of relief on many fronts this week. Last week was my peak long run distance (24 miles), my highest volume of running ever, and my first time over 100 miles. It also marked the first break in winter, with some positively gorgeous weather on Sunday. I had two easy runs on the schedule, and sometimes that second one can be something of a drag when I really just feel like putting my feet up after a long run and a long training week.</description>
+    </item>
+    
+    <item>
+      <title>small jobs</title>
+      <link>/post/2015-03-02-small-jobs/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-03-02-small-jobs/</guid>
+      <description>The first races in the local running series took place last weekend - the aptly named Re-Fridgee-Eighter 8 mile and 8 km races. These are fun, non-standard distances and I signed up for the 8 miler. This was the first race shorter than a half-marathon I&amp;rsquo;ve done in a while. To be honest I&amp;rsquo;m a little frightened of shorter races - I find the prospect of really hard running more daunting than the challenge of longer distances.</description>
+    </item>
+    
+    <item>
+      <title>rest</title>
+      <link>/post/2015-02-23-rest/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-02-23-rest/</guid>
+      <description>&#34;Activity and rest are two vital aspects of life. To find a balance in them is a skill in itself. Wisdom is knowing when to have rest, when to have activity, and how much of each to have. Finding them in each other - activity in rest and rest in activity - is the ultimate freedom.” Sri Sri Ravi Shankar, Celebrating Silence: Excerpts from Five Years of Weekly Knowledge 1995-2000  I&amp;rsquo;m dealing with a little foot injury right now, and after a huge block of consistent training I struggled at first with having to take some time off.</description>
     </item>
     
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This is Andrea&amp;rsquo;s new website.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Ironman Muskoka Race Report</title>
-      <link>/1/01/01/ironman-muskoka-race-report/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/ironman-muskoka-race-report/</guid>
-      <description>{: .center-image }
-Poor blog, this must be how you feel after an entire summer of neglect. The writing and computer-y projects I was excited about before Boston have not been compatible with warm weather, ironman training, and a busier-than-usual summer at work. But shorter days are signaling the demise of summer, and I find myself in a 5-week limbo between Ironman Muskoka and the Chicago marathon - a good time to retool and attend to everything that has taken a backseat to training over the past four months.</description>
-    </item>
-    
-    <item>
-      <title>Over the Hump</title>
-      <link>/1/01/01/over-the-hump/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/over-the-hump/</guid>
-      <description>I felt a sense of relief on many fronts this week. Last week was my peak long run distance (24 miles), my highest volume of running ever, and my first time over 100 miles. It also marked the first break in winter, with some positively gorgeous weather on Sunday. I had two easy runs on the schedule, and sometimes that second one can be something of a drag when I really just feel like putting my feet up after a long run and a long training week.</description>
-    </item>
-    
-    <item>
-      <title>Rest</title>
-      <link>/1/01/01/rest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/rest/</guid>
-      <description>&#34;Activity and rest are two vital aspects of life. To find a balance in them is a skill in itself. Wisdom is knowing when to have rest, when to have activity, and how much of each to have. Finding them in each other - activity in rest and rest in activity - is the ultimate freedom.” Sri Sri Ravi Shankar, Celebrating Silence: Excerpts from Five Years of Weekly Knowledge 1995-2000  I&amp;rsquo;m dealing with a little foot injury right now, and after a huge block of consistent training I struggled at first with having to take some time off.</description>
-    </item>
-    
-    <item>
-      <title>Schrödinger&#39;s Stress Fracture</title>
-      <link>/1/01/01/schr%C3%B6dingers-stress-fracture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/schr%C3%B6dingers-stress-fracture/</guid>
-      <description>It&amp;rsquo;s incredible what a week off from running can do. On the one hand I feel like I have so much energy I want to run 50 miles at marathon pace, while on the other my body seems to have forgotten all movement patterns associated with running. I used to experience this with swimming all the time - a couple of missed practices due to illness and my feel for the water vanished, at least for a day or two.</description>
-    </item>
-    
-    <item>
-      <title>Serious Juju</title>
-      <link>/1/01/01/serious-juju/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/serious-juju/</guid>
-      <description>{: .center-image }
-Without any coordination, big A and I started our runs at the same time down to the minute, and went the same distance down to a tenth of a mile. Clearly we possess some sort of supernatural marital running synchronicity.</description>
-    </item>
-    
-    <item>
-      <title>Small Jobs</title>
-      <link>/1/01/01/small-jobs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/small-jobs/</guid>
-      <description>The first races in the local running series took place last weekend - the aptly named Re-Fridgee-Eighter 8 mile and 8 km races. These are fun, non-standard distances and I signed up for the 8 miler. This was the first race shorter than a half-marathon I&amp;rsquo;ve done in a while. To be honest I&amp;rsquo;m a little frightened of shorter races - I find the prospect of really hard running more daunting than the challenge of longer distances.</description>
-    </item>
-    
-    <item>
-      <title>Time</title>
-      <link>/1/01/01/time/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/time/</guid>
-      <description>&#34;How did it get so late so soon? It&#39;s night before it&#39;s afternoon. December is here before it&#39;s June. My goodness how the time has flewn. How did it get so late so soon?&#34; - Dr.Seuss  I love having short hair - it requires a mere 90 seconds of attention each morning and has reduced my shampoo consumption at least ten-fold. The only drawback is it requires more frequent haircuts - every 4-5 weeks if I’m to avoid that perpetually disheveled, unkempt look.</description>
-    </item>
-    
-    <item>
-      <title>Whack-a-Mole</title>
-      <link>/1/01/01/whack-a-mole/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/whack-a-mole/</guid>
-      <description>I’m starting to feel like one of those forlorn sailors from old-timey days, shipwrecked in some god-forsaken land without food, beginning to seriously contemplate cannibalism as their compatriots&amp;rsquo; limbs start to more closely resemble juicy chicken drumsticks than fleshy appendages.
-Day 10: Still hurts. More elliptical. I wonder how difficult it would be to smash this thing? Where are those old golf clubs we have… But I jest - I truly don’t mind the elliptical.</description>
+      <description>When you love something like reading — or drawing or music or nature — it surrounds you with a sense of connection to something great. If you are lucky enough to know this, then your search for meaning involves whatever that Something is. It’s an alchemical blend of affinity and focus that takes us to a place within that feels as close as we ever get to &#34;home.&#34; It’s like pulling into our own train station after a long trip — joy, relief, a pleasant exhaustion.</description>
     </item>
     
   </channel>

@@ -42,9 +42,7 @@
       
         <li><a href="./about/"> About </a></li>
       
-        <li><a href="https://github.com/rstudio/blogdown"> GitHub </a></li>
-      
-        <li><a href="https://twitter.com/rstudio"> Twitter </a></li>
+        <li><a href="./post/test/"> sunk costs, expected value, and thinking like an economist </a></li>
       
     </ul>
 
@@ -59,96 +57,82 @@
       
   <div class="post">
     <h1 class="post-title">
-      <a href="./2017/05/18/sunk-costs-expected-value-and-thinking-like-an-economist/">
+      <a href="./post/test/">
         sunk costs, expected value, and thinking like an economist
       </a>
     </h1>
 
-    <span class="post-date">Thu, May 18, 2017</span>
+    <span class="post-date">Fri, May 19, 2017</span>
 
-    
+    <p>test blog post</p>
+
   </div>
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./2016/12/30/a-plain-markdown-post/">
-        A Plain Markdown Post
+      <a href="./post/2016-03-22-mole/">
+        whack-a-mole
       </a>
     </h1>
 
-    <span class="post-date">Fri, Dec 30, 2016</span>
+    <span class="post-date">Tue, Mar 22, 2016</span>
 
-    <p>This is a post written in plain Markdown (<code>*.md</code>) instead of R Markdown (<code>*.Rmd</code>). The major differences are:</p>
+    <p>I’m starting to feel like one of those forlorn sailors from old-timey days, shipwrecked in some god-forsaken land without food, beginning to seriously contemplate cannibalism as their compatriots&rsquo; limbs start to more closely resemble juicy chicken drumsticks than fleshy appendages.</p>
 
-<ol>
-<li>You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (<code>```{r}</code>);</li>
-<li>A plain Markdown post is rendered through <a href="https://gohugo.io/overview/configuration/">Blackfriday</a>, and an R Markdown document is compiled by <a href="http://rmarkdown.rstudio.com"><strong>rmarkdown</strong></a> and <a href="http://pandoc.org">Pandoc</a>.</li>
-</ol>
+<p>Day 10: Still hurts. More elliptical. I wonder how difficult it would be to smash this thing? Where are those old golf clubs we have… But I jest - I truly don’t mind the elliptical. The one and only leg up that indoor/stationary training has on outdoor activities is the ability to watch TV. I’ve blown through House of Cards and am well into the third season of The Americans now. This injury has lifted my TV-watching game to another level. Too bad there is zero practical value to this achievement. Maybe I should start watching some documentaries.</p>
 
-<p>There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:</p>
+<p>Speaking of documentaries - we watched Blackfish on the weekend. Sad sad sad, for both the whales and the humans involved. I’d never given it much thought before, but it seems crazy that trainers would swim around in a tank with multiple orcas. The possibility of an accident, let alone an act of aggression by a cooped-up, stressed-out whale, seems like an unreasonable risk. I feel about this the same way I feel about free solo rock climbing - no matter how mind-blowingly skilled you are (e.g. Alex Honnold) there always has to be something you can’t control for, some element of chance that no amount of skill or preparation can account for. A piece of rock that becomes unhinged at precisely the wrong time, or in this case a whale executing a maneuver a few seconds early. I’m on the living-in-a-bubble side of risk aversion, so these kinds of risks seem crazy to me.</p>
 
-<ul class="task-list">
-<li><input type="checkbox" checked disabled class="task-list-item"> Write an R package.</li>
-<li><input type="checkbox" disabled class="task-list-item"> Write a book.</li>
-<li><input type="checkbox" disabled class="task-list-item"> &hellip;</li>
-<li><input type="checkbox" disabled class="task-list-item"> Profit!</li>
-</ul>
+<p>Back to injury-land. As usual when I get injured so close to a race, there’s a volatile cocktail of anger, self-pity, frustration and regret brewing just below the surface. Every one of those emotions is totally overblown and irrational of course, so it’s a mind game of whack-a-mole trying to suppress them as they arise with more reasonable, less crazed thoughts. Who am I angry at, myself? Maybe. The running gods? Silliness. Self-pity is laughable - I have an injury that prevents me from doing exactly one thing that I like to do, woe is me. Overlooking the countless people with actually real health problems, there’s a runner in my company who was one good race away from making the Olympic standard (which essentially meant he would automatically go), and he recently found out he has a stress fracture in his foot. Worst case I don’t run Boston this year, and I have to wait exactly one year for the opportunity to repeat itself. I’m not missing the Olympics so let’s keep things in perspective.</p>
 
-<p>Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (<a href="https://github.com/yihui/hugo-lithium-theme">hugo-lithium-theme</a>) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: <code>`$ $`</code>; display style: <code>`$$ $$`</code>), e.g., <code>$S_n = \sum_{i=1}^n X_i$</code>.<sup class="footnote-ref" id="fnref:This-is-because"><a rel="footnote" href="#fn:This-is-because">1</a></sup> For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.</p>
+<p>Moving on to frustration and regret, the two most persistent little mole-heads. Frustration because I’m doing everything I can to get better. I’m a good little convalescent, not even tempted to run again until it’s pain-free, doing whatever mobility and strengthening exercises I can, yet still it improves at a snails pace. And regret because there were warning signs, however small and easily-dismissed at the time. Two runs with tight and achey lower legs that I assumed were run-of-the-mill training soreness. And a long run that felt good but was probably what did the most damage. Maybe if I had taken a break at the first sign of soreness I could have avoided the hot mess my lower leg is in right now… or maybe the damage was already done at that point. We’ll never know. Frustration at the rate of improvement and regret at missing a potential chance to nip it in the bud are both futile feelings. I cannot change the past and I cannot magically accelerate the healing process. As this amazing decorative duct-tape I have reminds me - DILL WITH IT!</p>
 
-<p>When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the <code>rmd</code> argument of the function <code>blogdown::new_post()</code>, e.g.</p>
+<p><img src="dill.jpg" alt="Dill with it!" /></p>
 
-<pre><code class="language-r">blogdown::new_post(&quot;Post Title&quot;, rmd = FALSE)
-</code></pre>
-<div class="footnotes">
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="./post/2016-03-13-boston2016/">
+        time
+      </a>
+    </h1>
 
-<hr />
+    <span class="post-date">Sun, Mar 13, 2016</span>
 
-<ol>
-<li id="fn:This-is-because">This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., <code>\$50 and $100</code> renders &ldquo;\$50 and $100&rdquo;. <a class="footnote-return" href="#fnref:This-is-because"><sup>[return]</sup></a></li>
-</ol>
+    <div class="message">
+  "How did it get so late so soon?
+   It's night before it's afternoon.
+   December is here before it's June.
+   My goodness how the time has flewn.
+   How did it get so late so soon?"
+   - Dr.Seuss
 </div>
 
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="./about/">
-        About
-      </a>
-    </h1>
+<p>I love having short hair - it requires a mere 90 seconds of attention each morning and has reduced my shampoo consumption at least ten-fold. The only drawback is it requires more frequent haircuts - every 4-5 weeks if I’m to avoid that perpetually disheveled, unkempt look. This week was a haircut week, and my next one is booked for April 13th - the week before Boston. This was my roundabout way of saying that the Boston marathon feels like it is bearing down upon me with break-neck speed. In the time it takes for my hair to grow less than an inch I will have exhausted all of my remaining opportunities to train and be comfortably into the last few days of taper.</p>
 
-    <span class="post-date">Thu, May 5, 2016</span>
+<p>The proximity of an event can sometimes feel binary to me. Something is either far enough away that there are ample opportunities to prepare, or it’s so close that I can do little but resign myself to the inevitable outcome. Unsurprisingly I am most relaxed and happy in the former state. I’m a starter of things - to big A’s amusement/bafflement I have numerous  partially used notebooks that I’ve purchased, opened to a fresh page and dutifully populated to 25-50 percent capacity, only to prematurely abandon in favour of another pristine, untouched notebook. I am most comfortable when events - be they work- or sport-related -  are tiny specks on the time horizon. I love signing up for a big race well in advance. The click of a registration button for next year’s race manifests a blank slate of training potential. Yet the weeks tick by inexorably, and something that once seemed so far off and abstract becomes increasingly concrete day by day. The possibilities shrink, and reality is contracted almost to a point, like a sleeping bag stuffed into an impossibly small case. On race day there’s nothing you can do but execute. You show up with the fitness that you’ve put in, and there’s no way to change that. One cannot, alas, conjure up intervening time out of thin air.</p>
 
-    <p>This is Andrea&rsquo;s new website.</p>
+<p>I love the process of training much more than the execution of racing. I delight in the methodical progression of fitness and the gradual increase in capabilities. I was always so tense competing at swim meets in my youth - I disliked the idea that the ultimate value of all the hard work I put in and the countless hours in the pool was to be determined by the outcome of  a race lasting only a few minutes at best. So little time to rectify any mistakes; so little margin for error. In the 100 fly let’s say, a too-long glide into the turn could spell disaster: a coveted best-time narrowly missed. And though training helped reduce the likelihood of such technical errors, the short races never sat well with me. Give me a marathon over a 5k any day.</p>
+
+<p>As in sports so in life - I have a tendency to view the progression of time as a narrowing of prospects, and I feel uneasy about any life choice that I perceive as overly limiting. I like to leave as many doors open as I can (with the great exception of partner-selection: with that I am utterly content to confine myself in a hermetically sealed room, to extend the analogy). You might think this mindset would leave me racked with regrets, but this is not the case. Regret is something slightly different. It is a wish to undo what has been done, a dissatisfaction with the road taken. Whereas this feeling is more of a mourning for the roads not taken, no matter how lovely is the road currently under your feet. Even if I am unabashedly happy with how my decisions played out (as for instance with the circuitous way in which I backed into my profession) I still feel a plaintive longing for all the possibilities snuffed out and left un-pursued.</p>
+
+<p>With the pages of my Boston training 75 percent filled, I’m resisting the temptation to start a new mental notebook. Too often I look ahead to the next race well before the finish line of my current goal. This year is even more testing, as my explicit focus is on Ironman Mont Tremblant. And while I’ve been doing marathon-specific training in the lead-up to Boston, I’ve been more in a triathlon headspace this winter than any time since my halcyon days in the sport. While it’s unlikely I’m going to quell my excitement about getting back into more Ironman focused training, I’m trying also to keep my attention squarely on Boston. This has been an interesting marathon training cycle, with much lower run volume and much <em>much</em> shorter long runs than I would typically do. With only one haircut between me and Boylston street, now is the time to put the finishing touches on training and look forward to whatever happens on race day.</p>
 
   </div>
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./2015/01/01/lorem-ipsum/">
-        Lorem Ipsum
+      <a href="./post/2015-09-07-im-muskoka/">
+        ironman muskoka race report
       </a>
     </h1>
 
-    <span class="post-date">Thu, Jan 1, 2015</span>
-
-    <p><strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <em>magna aliqua</em>. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="./1/01/01/ironman-muskoka-race-report/">
-        Ironman Muskoka Race Report
-      </a>
-    </h1>
-
-    <span class="post-date">Mon, Jan 1, 0001</span>
+    <span class="post-date">Mon, Sep 7, 2015</span>
 
     
 
-<p><img src="./assets/neglecterino.jpg" alt="Neglecterinos" />{: .center-image }</p>
+<p><img src="neglecterino.jpg" alt="Neglecterinos" /></p>
 
 <p>Poor blog, this must be how you feel after an entire summer of neglect. The writing and computer-y projects I was excited about  before Boston have not been compatible with warm weather, ironman training, and a busier-than-usual summer at work. But shorter days are signaling the demise of summer, and I find myself in a 5-week limbo between Ironman Muskoka and the Chicago marathon - a good time to retool and attend to everything that has taken a backseat to training over the past four months.</p>
 
@@ -181,7 +165,7 @@
 
 <h2 id="bike">Bike</h2>
 
-<p><img src="./assets/bike.jpeg" alt="Sweet Betty Designs kit!" />{: .center-image }</p>
+<p><img src="bike.jpeg" alt="Sweet Betty Designs kit!" /></p>
 
 <ul>
 <li><strong>Predominant feeling</strong>: Dead heat between joy and bodily pain.</li>
@@ -200,7 +184,7 @@
 
 <h2 id="run">Run</h2>
 
-<p><img src="./assets/run.jpeg" alt="Sponge-Bob Rectangle Pants, my trusted ally." />{: .center-image }</p>
+<p><img src="run.jpeg" alt="Sponge-Bob Rectangle Pants, my trusted ally." /></p>
 
 <ul>
 <li><strong>Predominant feeling</strong>: Gratitude</li>
@@ -219,7 +203,7 @@
 
 <h2 id="epilogue">Epilogue</h2>
 
-<p><img src="./assets/postim.jpeg" alt="Celebrating with my biggest fan." />{: .center-image }</p>
+<p><img src="postim.jpeg" alt="Celebrating with my biggest fan." /></p>
 
 <p>This was an amateur-only race so I was able to sneak into the top 10 overall, 4th in my age group. Going into the race I&rsquo;d considered that there might be the possibility of a Kona spot, but there were some stand-out girls in my age group with a lot more experience (apart from a sprint in Bermuda my last triathlon was 6 years ago). I didn&rsquo;t think I cared that much about getting a spot - it would be an expensive trip and probably not my kind of race - but when I was up there and it rolled down to 3rd, I must admit to being more than a little disappointed. The overall and AG winner turned down her spot, and when it came down to the 3rd place girl she asked why, and it was because she was already going this year. Third place girl replied that she too was going this year, and in an entirely irrational reaction I was annoyed by this. She has every right to claim a spot for next year, and I might do the same thing if I were in her shoes. Nonetheless it sparked a little competitive fire in me, and I&rsquo;m now determined to race another one and see what I can do. I&rsquo;m going to do it right this time - get a coach, train through the winter, get my equipment squared away, do some warm-up races and really put my heart into it. With the exchange rate being what it is I&rsquo;m thinking of sticking to home soil with Mont Tremblant. Only 349 days to go!</p>
 
@@ -227,54 +211,12 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./1/01/01/over-the-hump/">
-        Over the Hump
+      <a href="./post/2015-04-03-schrodinger/">
+        schrödinger&#39;s stress fracture
       </a>
     </h1>
 
-    <span class="post-date">Mon, Jan 1, 0001</span>
-
-    <p>I felt a sense of relief on many fronts this week. Last week was my peak long run distance (24 miles), my highest volume of running ever, and my first time over 100 miles. It also marked the first break in winter, with some positively gorgeous weather on Sunday. I had two easy runs on the schedule, and sometimes that second one can be something of a drag when I really just feel like putting my feet up after a long run and a long training week. But with the sun warming my back and the freedom of only a single layer of clothes it was anything but arduous.</p>
-
-<p>With less than 6 weeks to go until Boston I&rsquo;m more than <sup>2</sup>&frasl;<sub>3</sub> through the training program, and my mindset has unconsciously switched from wanting to maximize my training to a more cautious approach. The hay is in the barn so to speak, and the trade-offs of aggressive mileage are less favourable. The incremental benefit of running when I&rsquo;m tired or achey is now overshadowed by how much I would lose from an injury. I&rsquo;ve been walking the edge of my current capacity this season, that paper thin line between maxing out my abilities and breaking down into a heap of stress fractures and grumpiness. With the bulk of marathon training under my belt, having maintained consistency through a couple of peak busy times at work, and with winter slowly receding I&rsquo;ve felt a lightness this week that I didn&rsquo;t realize was missing. Maybe I was plowing through some months with my head down, focused on just getting through work weeks and workouts, not realizing that I was perhaps holding on to the reins a little too tightly. Maybe that&rsquo;s how it had to be done; I don&rsquo;t have a good track record of training through the winter, and maybe I needed some blinders on to get outside on those cold, dark mornings when I knew I had a busy day of work ahead of me.</p>
-
-<p>Either way, I feel like I can let go a bit now and loosen the grip. I got through a 103-mile week none the worse for wear, and followed it up with some solid runs this week. With any luck there won&rsquo;t be any more face-numbingly cold mornings I have to grit my teeth for, and my willpower can take a back seat and replenish its stores. Taper is just around the corner, the snow is melting, the days are getting longer, and I&rsquo;m increasingly excited to see what I can do on race day. There is much to be thankful for.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="./1/01/01/rest/">
-        Rest
-      </a>
-    </h1>
-
-    <span class="post-date">Mon, Jan 1, 0001</span>
-
-    <div class="message">
-  "Activity and rest are two vital aspects of life. To find a balance in them is a skill in itself. Wisdom is knowing when to have rest, when to have activity, and how much of each to have. Finding them in each other - activity in rest and rest in activity - is the ultimate freedom.” Sri Sri Ravi Shankar, Celebrating Silence: Excerpts from Five Years of Weekly Knowledge 1995-2000
-</div>
-
-<p>I&rsquo;m dealing with a little foot injury right now, and after a huge block of consistent training I struggled at first with having to take some time off. But a few things have helped me become more relaxed about this otherwise undesirable necessity.</p>
-
-<p>1) <strong>The weather</strong> Winter training is always accompanied by a compulsive checking of the Environment Canada weather service, anticipating how cold it&rsquo;s going to be today, tomorrow, for the rest of the week. Since you have to adapt your training to fit the conditions (e.g. no speed work when the sidewalks are skating rinks) it&rsquo;s vital to stay up-to-date on the changing forecasts. Funnily this preoccupation with the weather is the same when I&rsquo;m <em>not</em> running. It&rsquo;s a case of fear-of-missing-out. If the weather is terrible I don&rsquo;t feel like I&rsquo;m missing out on some really great, inspiring runs; I&rsquo;m only avoiding some tough, possibly miserable, probably unpleasant ones. Sometimes these can turn out to be inspiring workouts in their own way, but there&rsquo;s some comfort in knowing that I&rsquo;m not missing an amazing trail run at dawn in beautiful spring conditions.</p>
-
-<p>2) <strong>Alternatives</strong> When my training volume increases I sometimes feel a bit of anxiety about how all-consuming it becomes. While the time requirements of a mileage increase alone aren&rsquo;t huge, it also comes with an increase in the auxiliary exercises like food preparation, stretching, strengthening, foam rolling etc. Other self-development projects can easily get pushed aside, and being able to once again pursue these in earnest is a nice side-effect of this involuntary running break. I&rsquo;ve been meditating and working on yoga poses every day, learning to code (better) in Python, writing and reading more. It&rsquo;s a more balanced existence, where my life isn&rsquo;t focused entirely on improving one thing.</p>
-
-<p>3) <strong>Rest</strong> Coming off some huge mileage weeks, I&rsquo;m confident that a small break from running is in my best interest. I may lose a little bit of that hard-earned fitness, but I have no doubt this will be made up for in the mental and physical freshness I&rsquo;ll have when I come back. Slogging through some big weeks in less than ideal conditions can take it&rsquo;s toll on my desire to run. Some cold, dark, snowy, windy mornings I&rsquo;ve needed a concerted exertion of willpower and contemplation of my long-term goals to get me out the door. Nothing lights up my enthusiasm for running like not being <em>able</em> to run. Can&rsquo;t having something always makes us want it more.</p>
-
-<p>4) <strong>Perspective</strong> My recent thoughts on this warrant their own post, but I&rsquo;ll sum them up in a paragraph. Taking a broader perspective always calms my anxiety, whether about training related things, job stress or anything else. This past week I&rsquo;ve started every day with an assessment of my foot. How much does it hurt? Is it better than yesterday? Can I run today? If I let them, these become the most important questions I face every morning; and if I let them, they would overshadow the rest of my life. They could easily run amuck as I worry and obsess over the uncertainty about how long I&rsquo;ll need to take off. Stepping back to see just how narrow that focus is snaps me back to reality. This injury will not matter much when it comes to my whole life, and my life will matter even less when it comes to the whole world, and what does the whole world matter when you think about the universe? And what if there are infinite universes? There is no end to the insignificance of this one thing in my life that I&rsquo;m letting overrun my brain. On a recent road trip we listened to a podcast with an astronomer, and the discussion about questions of civilizations, infinities and alternate universes reminded me of how comforting our insignificance can be, and how important it is to maintain the right level of perspective.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="./1/01/01/schr%C3%B6dingers-stress-fracture/">
-        Schrödinger&#39;s Stress Fracture
-      </a>
-    </h1>
-
-    <span class="post-date">Mon, Jan 1, 0001</span>
+    <span class="post-date">Fri, Apr 3, 2015</span>
 
     <p>It&rsquo;s incredible what a week off from running can do. On the one hand I feel like I have so much energy I want to run 50 miles at marathon pace, while on the other my body seems to have forgotten all movement patterns associated with running. I used to experience this with swimming all the time - a couple of missed practices due to illness and my feel for the water vanished, at least for a day or two.</p>
 
@@ -284,7 +226,7 @@
 
 <p>It&rsquo;s like Schrödinger&rsquo;s cat, the thought experiment in which a poor little kitty is placed in a box, rigged with poison set to release when a radioactive atom decays. Kitty&rsquo;s fate is tied to a quantum system, which the theory goes can exist in a superposition of multiple states until it is observed. There are various experiments of which I&rsquo;m not smart enough to speak indicating that photons traveling through an apparatus of slits and beam splitters can behave like a particle or a wave depending on whether or not we observe their path. The mere act of observing collapses the state of indeterminacy into one of the possible outcomes. I think Schrödinger was trying to highlight the absurdity of this notion by translating it to a macro level; if the quantum system is in a state of superposition, and box-cat&rsquo;s survival depends on this state, then box-cat himself will be simultaneously dead and alive until we open the lid to find out.</p>
 
-<p><a href="http://www.toothpastefordinner.com/062309/schrodingers-present.gif"><img src="./assets/schrodingers-present.gif" alt="Schrodinger's Birthday" /></a>{: .center-image }</p>
+<p><a href="http://www.toothpastefordinner.com/062309/schrodingers-present.gif"><img src="schrodingers-present.gif" alt="Schrodinger's Birthday" /></a></p>
 
 <p>In the same way I felt that until I tested out my leg on a run I could hang out in a limbo of being both injured and not-injured. I didn&rsquo;t want to open up the lid and find a dead cat, or in this case feel a pain that would be unmistakeable as a stress fracture. That&rsquo;s pure irrational silliness of course, but I was reluctant to sacrifice all hope of running Boston.</p>
 
@@ -304,14 +246,14 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./1/01/01/serious-juju/">
-        Serious Juju
+      <a href="./post/2015-03-21-juju/">
+        serious juju
       </a>
     </h1>
 
-    <span class="post-date">Mon, Jan 1, 0001</span>
+    <span class="post-date">Sat, Mar 21, 2015</span>
 
-    <p><img src="./assets/strava_pair.png" alt="Picture description" />{: .center-image }</p>
+    <p><img src="strava_pair.png" alt="Picture description" /></p>
 
 <p>Without any coordination, big A and I started our runs at the same time down to the minute, and went the same distance down to a tenth of a mile. Clearly we possess some sort of supernatural marital running synchronicity.</p>
 
@@ -319,12 +261,29 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./1/01/01/small-jobs/">
-        Small Jobs
+      <a href="./post/2015-03-12-over-the-hump/">
+        over the hump
       </a>
     </h1>
 
-    <span class="post-date">Mon, Jan 1, 0001</span>
+    <span class="post-date">Thu, Mar 12, 2015</span>
+
+    <p>I felt a sense of relief on many fronts this week. Last week was my peak long run distance (24 miles), my highest volume of running ever, and my first time over 100 miles. It also marked the first break in winter, with some positively gorgeous weather on Sunday. I had two easy runs on the schedule, and sometimes that second one can be something of a drag when I really just feel like putting my feet up after a long run and a long training week. But with the sun warming my back and the freedom of only a single layer of clothes it was anything but arduous.</p>
+
+<p>With less than 6 weeks to go until Boston I&rsquo;m more than <sup>2</sup>&frasl;<sub>3</sub> through the training program, and my mindset has unconsciously switched from wanting to maximize my training to a more cautious approach. The hay is in the barn so to speak, and the trade-offs of aggressive mileage are less favourable. The incremental benefit of running when I&rsquo;m tired or achey is now overshadowed by how much I would lose from an injury. I&rsquo;ve been walking the edge of my current capacity this season, that paper thin line between maxing out my abilities and breaking down into a heap of stress fractures and grumpiness. With the bulk of marathon training under my belt, having maintained consistency through a couple of peak busy times at work, and with winter slowly receding I&rsquo;ve felt a lightness this week that I didn&rsquo;t realize was missing. Maybe I was plowing through some months with my head down, focused on just getting through work weeks and workouts, not realizing that I was perhaps holding on to the reins a little too tightly. Maybe that&rsquo;s how it had to be done; I don&rsquo;t have a good track record of training through the winter, and maybe I needed some blinders on to get outside on those cold, dark mornings when I knew I had a busy day of work ahead of me.</p>
+
+<p>Either way, I feel like I can let go a bit now and loosen the grip. I got through a 103-mile week none the worse for wear, and followed it up with some solid runs this week. With any luck there won&rsquo;t be any more face-numbingly cold mornings I have to grit my teeth for, and my willpower can take a back seat and replenish its stores. Taper is just around the corner, the snow is melting, the days are getting longer, and I&rsquo;m increasingly excited to see what I can do on race day. There is much to be thankful for.</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="./post/2015-03-02-small-jobs/">
+        small jobs
+      </a>
+    </h1>
+
+    <span class="post-date">Mon, Mar 2, 2015</span>
 
     <p>The first races in the local running series took place last weekend - the aptly named Re-Fridgee-Eighter 8 mile and 8 km races. These are fun, non-standard distances and I signed up for the 8 miler. This was the first race shorter than a half-marathon I&rsquo;ve done in a while. To be honest I&rsquo;m a little frightened of shorter races - I find the prospect of really hard running more daunting than the challenge of longer distances. For me the marathon is still about overcoming the distance, of not slowing down in the last quarter of the race. That comes with its own unpleasantness, but for me the mental effort of willing myself to keep going in the final miles of a marathon is preferable to the effort required to keep going <em>fast</em> in shorter races. That being said the 8 miler was a lot of fun, and it&rsquo;s nice to feel stronger after having completed a race rather than the worn-down and totally depleted post-marathon state.</p>
 
@@ -344,54 +303,61 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./1/01/01/time/">
-        Time
+      <a href="./post/2015-02-23-rest/">
+        rest
       </a>
     </h1>
 
-    <span class="post-date">Mon, Jan 1, 0001</span>
+    <span class="post-date">Mon, Feb 23, 2015</span>
 
     <div class="message">
-  "How did it get so late so soon?
-   It's night before it's afternoon.
-   December is here before it's June.
-   My goodness how the time has flewn.
-   How did it get so late so soon?"
-   - Dr.Seuss
+  "Activity and rest are two vital aspects of life. To find a balance in them is a skill in itself. Wisdom is knowing when to have rest, when to have activity, and how much of each to have. Finding them in each other - activity in rest and rest in activity - is the ultimate freedom.” Sri Sri Ravi Shankar, Celebrating Silence: Excerpts from Five Years of Weekly Knowledge 1995-2000
 </div>
 
-<p>I love having short hair - it requires a mere 90 seconds of attention each morning and has reduced my shampoo consumption at least ten-fold. The only drawback is it requires more frequent haircuts - every 4-5 weeks if I’m to avoid that perpetually disheveled, unkempt look. This week was a haircut week, and my next one is booked for April 13th - the week before Boston. This was my roundabout way of saying that the Boston marathon feels like it is bearing down upon me with break-neck speed. In the time it takes for my hair to grow less than an inch I will have exhausted all of my remaining opportunities to train and be comfortably into the last few days of taper.</p>
+<p>I&rsquo;m dealing with a little foot injury right now, and after a huge block of consistent training I struggled at first with having to take some time off. But a few things have helped me become more relaxed about this otherwise undesirable necessity.</p>
 
-<p>The proximity of an event can sometimes feel binary to me. Something is either far enough away that there are ample opportunities to prepare, or it’s so close that I can do little but resign myself to the inevitable outcome. Unsurprisingly I am most relaxed and happy in the former state. I’m a starter of things - to big A’s amusement/bafflement I have numerous  partially used notebooks that I’ve purchased, opened to a fresh page and dutifully populated to 25-50 percent capacity, only to prematurely abandon in favour of another pristine, untouched notebook. I am most comfortable when events - be they work- or sport-related -  are tiny specks on the time horizon. I love signing up for a big race well in advance. The click of a registration button for next year’s race manifests a blank slate of training potential. Yet the weeks tick by inexorably, and something that once seemed so far off and abstract becomes increasingly concrete day by day. The possibilities shrink, and reality is contracted almost to a point, like a sleeping bag stuffed into an impossibly small case. On race day there’s nothing you can do but execute. You show up with the fitness that you’ve put in, and there’s no way to change that. One cannot, alas, conjure up intervening time out of thin air.</p>
+<p>1) <strong>The weather</strong> Winter training is always accompanied by a compulsive checking of the Environment Canada weather service, anticipating how cold it&rsquo;s going to be today, tomorrow, for the rest of the week. Since you have to adapt your training to fit the conditions (e.g. no speed work when the sidewalks are skating rinks) it&rsquo;s vital to stay up-to-date on the changing forecasts. Funnily this preoccupation with the weather is the same when I&rsquo;m <em>not</em> running. It&rsquo;s a case of fear-of-missing-out. If the weather is terrible I don&rsquo;t feel like I&rsquo;m missing out on some really great, inspiring runs; I&rsquo;m only avoiding some tough, possibly miserable, probably unpleasant ones. Sometimes these can turn out to be inspiring workouts in their own way, but there&rsquo;s some comfort in knowing that I&rsquo;m not missing an amazing trail run at dawn in beautiful spring conditions.</p>
 
-<p>I love the process of training much more than the execution of racing. I delight in the methodical progression of fitness and the gradual increase in capabilities. I was always so tense competing at swim meets in my youth - I disliked the idea that the ultimate value of all the hard work I put in and the countless hours in the pool was to be determined by the outcome of  a race lasting only a few minutes at best. So little time to rectify any mistakes; so little margin for error. In the 100 fly let’s say, a too-long glide into the turn could spell disaster: a coveted best-time narrowly missed. And though training helped reduce the likelihood of such technical errors, the short races never sat well with me. Give me a marathon over a 5k any day.</p>
+<p>2) <strong>Alternatives</strong> When my training volume increases I sometimes feel a bit of anxiety about how all-consuming it becomes. While the time requirements of a mileage increase alone aren&rsquo;t huge, it also comes with an increase in the auxiliary exercises like food preparation, stretching, strengthening, foam rolling etc. Other self-development projects can easily get pushed aside, and being able to once again pursue these in earnest is a nice side-effect of this involuntary running break. I&rsquo;ve been meditating and working on yoga poses every day, learning to code (better) in Python, writing and reading more. It&rsquo;s a more balanced existence, where my life isn&rsquo;t focused entirely on improving one thing.</p>
 
-<p>As in sports so in life - I have a tendency to view the progression of time as a narrowing of prospects, and I feel uneasy about any life choice that I perceive as overly limiting. I like to leave as many doors open as I can (with the great exception of partner-selection: with that I am utterly content to confine myself in a hermetically sealed room, to extend the analogy). You might think this mindset would leave me racked with regrets, but this is not the case. Regret is something slightly different. It is a wish to undo what has been done, a dissatisfaction with the road taken. Whereas this feeling is more of a mourning for the roads not taken, no matter how lovely is the road currently under your feet. Even if I am unabashedly happy with how my decisions played out (as for instance with the circuitous way in which I backed into my profession) I still feel a plaintive longing for all the possibilities snuffed out and left un-pursued.</p>
+<p>3) <strong>Rest</strong> Coming off some huge mileage weeks, I&rsquo;m confident that a small break from running is in my best interest. I may lose a little bit of that hard-earned fitness, but I have no doubt this will be made up for in the mental and physical freshness I&rsquo;ll have when I come back. Slogging through some big weeks in less than ideal conditions can take it&rsquo;s toll on my desire to run. Some cold, dark, snowy, windy mornings I&rsquo;ve needed a concerted exertion of willpower and contemplation of my long-term goals to get me out the door. Nothing lights up my enthusiasm for running like not being <em>able</em> to run. Can&rsquo;t having something always makes us want it more.</p>
 
-<p>With the pages of my Boston training 75 percent filled, I’m resisting the temptation to start a new mental notebook. Too often I look ahead to the next race well before the finish line of my current goal. This year is even more testing, as my explicit focus is on Ironman Mont Tremblant. And while I’ve been doing marathon-specific training in the lead-up to Boston, I’ve been more in a triathlon headspace this winter than any time since my halcyon days in the sport. While it’s unlikely I’m going to quell my excitement about getting back into more Ironman focused training, I’m trying also to keep my attention squarely on Boston. This has been an interesting marathon training cycle, with much lower run volume and much <em>much</em> shorter long runs than I would typically do. With only one haircut between me and Boylston street, now is the time to put the finishing touches on training and look forward to whatever happens on race day.</p>
+<p>4) <strong>Perspective</strong> My recent thoughts on this warrant their own post, but I&rsquo;ll sum them up in a paragraph. Taking a broader perspective always calms my anxiety, whether about training related things, job stress or anything else. This past week I&rsquo;ve started every day with an assessment of my foot. How much does it hurt? Is it better than yesterday? Can I run today? If I let them, these become the most important questions I face every morning; and if I let them, they would overshadow the rest of my life. They could easily run amuck as I worry and obsess over the uncertainty about how long I&rsquo;ll need to take off. Stepping back to see just how narrow that focus is snaps me back to reality. This injury will not matter much when it comes to my whole life, and my life will matter even less when it comes to the whole world, and what does the whole world matter when you think about the universe? And what if there are infinite universes? There is no end to the insignificance of this one thing in my life that I&rsquo;m letting overrun my brain. On a recent road trip we listened to a podcast with an astronomer, and the discussion about questions of civilizations, infinities and alternate universes reminded me of how comforting our insignificance can be, and how important it is to maintain the right level of perspective.</p>
 
   </div>
   
   <div class="post">
     <h1 class="post-title">
-      <a href="./1/01/01/whack-a-mole/">
-        Whack-a-Mole
+      <a href="./about/">
+        About
       </a>
     </h1>
 
     <span class="post-date">Mon, Jan 1, 0001</span>
 
-    <p>I’m starting to feel like one of those forlorn sailors from old-timey days, shipwrecked in some god-forsaken land without food, beginning to seriously contemplate cannibalism as their compatriots&rsquo; limbs start to more closely resemble juicy chicken drumsticks than fleshy appendages.</p>
+    <p class="message">
+  <font size="5">When you love something like reading — or drawing or music or nature — it surrounds you with a sense of connection to something great. If you are lucky enough to know this, then your search for meaning involves whatever that Something is. It’s an alchemical blend of affinity and focus that takes us to a place within that feels as close as we ever get to "home." It’s like pulling into our own train station after a long trip — joy, relief, a pleasant exhaustion. <br> </font><br> 
+  - Anne Lamott Stitches: <em>A Handbook on Meaning, Hope and Repair </em> 
+</p>
 
-<p>Day 10: Still hurts. More elliptical. I wonder how difficult it would be to smash this thing? Where are those old golf clubs we have… But I jest - I truly don’t mind the elliptical. The one and only leg up that indoor/stationary training has on outdoor activities is the ability to watch TV. I’ve blown through House of Cards and am well into the third season of The Americans now. This injury has lifted my TV-watching game to another level. Too bad there is zero practical value to this achievement. Maybe I should start watching some documentaries.</p>
+<p>I was a bit reluctant to make this new blog running themed, but I like the idea of examining life through the lens of an activity like running. So I wanted to make this somewhat running-centric, thoughts about the intersection where life and running meet, the lessons running (and sport in general) can teach us about life, and what we bring from our daily lives into our running.</p>
 
-<p>Speaking of documentaries - we watched Blackfish on the weekend. Sad sad sad, for both the whales and the humans involved. I’d never given it much thought before, but it seems crazy that trainers would swim around in a tank with multiple orcas. The possibility of an accident, let alone an act of aggression by a cooped-up, stressed-out whale, seems like an unreasonable risk. I feel about this the same way I feel about free solo rock climbing - no matter how mind-blowingly skilled you are (e.g. Alex Honnold) there always has to be something you can’t control for, some element of chance that no amount of skill or preparation can account for. A piece of rock that becomes unhinged at precisely the wrong time, or in this case a whale executing a maneuver a few seconds early. I’m on the living-in-a-bubble side of risk aversion, so these kinds of risks seem crazy to me.</p>
+<p>I also want to frame the posts around quotations, because there are inevitably countless writers who have expressed an idea in a way more clear and inspiring than I can hope to.</p>
 
-<p>Back to injury-land. As usual when I get injured so close to a race, there’s a volatile cocktail of anger, self-pity, frustration and regret brewing just below the surface. Every one of those emotions is totally overblown and irrational of course, so it’s a mind game of whack-a-mole trying to suppress them as they arise with more reasonable, less crazed thoughts. Who am I angry at, myself? Maybe. The running gods? Silliness. Self-pity is laughable - I have an injury that prevents me from doing exactly one thing that I like to do, woe is me. Overlooking the countless people with actually real health problems, there’s a runner in my company who was one good race away from making the Olympic standard (which essentially meant he would automatically go), and he recently found out he has a stress fracture in his foot. Worst case I don’t run Boston this year, and I have to wait exactly one year for the opportunity to repeat itself. I’m not missing the Olympics so let’s keep things in perspective.</p>
+<p>Thanks for reading! As a reward, here is my favourite cute animal video. If you&rsquo;ve never seen a slow loris before, prepare to have your heart melted:</p>
 
-<p>Moving on to frustration and regret, the two most persistent little mole-heads. Frustration because I’m doing everything I can to get better. I’m a good little convalescent, not even tempted to run again until it’s pain-free, doing whatever mobility and strengthening exercises I can, yet still it improves at a snails pace. And regret because there were warning signs, however small and easily-dismissed at the time. Two runs with tight and achey lower legs that I assumed were run-of-the-mill training soreness. And a long run that felt good but was probably what did the most damage. Maybe if I had taken a break at the first sign of soreness I could have avoided the hot mess my lower leg is in right now… or maybe the damage was already done at that point. We’ll never know. Frustration at the rate of improvement and regret at missing a potential chance to nip it in the bud are both futile feelings. I cannot change the past and I cannot magically accelerate the healing process. As this amazing decorative duct-tape I have reminds me - DILL WITH IT!</p>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/PZ5ACLVjYwM" frameborder="0" allowfullscreen> </iframe>
 
-<p><img src="./assets/dill.jpg" alt="Dill with it!" />{: .center-image }</p>
+<p class="message"> One of my favourite quotations, from <em>The Eden Express </em> by Mark Vonnegut. For context he's talking about chess. <br> <br>
+<font size="4">
+ Among amateurs, most "touch-move" games are lost on stupid blunders. The game becomes pointless very early: neither player learns anything. I'm capable of playing a good game of touch-move, but I have a hard time enjoying it. I beat players I should lose to and lose to players I should beat. Either way, it leaves a bad taste in my mouth. <br> <br>
+
+  Touch-move fans argue with equal fervor that being able to take moves back ruins the game. It's bad preparation for tournament play, encourages sloppiness. Maybe they're right. Maybe we should be made to face the consequences of our blunders. Cold hard world and all. <br> <br>
+
+  Life is a lot more like touch-move than friendly chess, but maybe that's because there are so many goddamned touch-move players around. <br> <br>
+
+  What I hope is true is that if we go about it the right way, we can take back a lot more than we think we can. If we could all make an effort to let anyone take back anything, if it's in our power to let them take back instead of jumping so greedily at mistakes, we might be able to make life much more pleasant. We might even be able to find a way to go backward in time and patch up what now look like irrevocable blunders. Letting friends take back chess moves would be as good a way to start as any. </font>
+</p>
 
   </div>
   

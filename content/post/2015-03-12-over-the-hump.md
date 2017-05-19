@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Over the Hump
+title: "over the hump"
+date: "2015-03-12"
 ---
 
 I felt a sense of relief on many fronts this week. Last week was my peak long run distance (24 miles), my highest volume of running ever, and my first time over 100 miles. It also marked the first break in winter, with some positively gorgeous weather on Sunday. I had two easy runs on the schedule, and sometimes that second one can be something of a drag when I really just feel like putting my feet up after a long run and a long training week. But with the sun warming my back and the freedom of only a single layer of clothes it was anything but arduous. 

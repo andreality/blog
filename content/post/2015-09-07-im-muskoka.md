@@ -1,10 +1,9 @@
 ---
-layout: post
-title: Ironman Muskoka Race Report
-date:"2015-09-07T21:49:57-07:00"
+title: ironman muskoka race report
+date: "2015-09-07"
 ---
 
-![Neglecterinos](/assets/neglecterino.jpg){: .center-image }
+![Neglecterinos](neglecterino.jpg)
 
 Poor blog, this must be how you feel after an entire summer of neglect. The writing and computer-y projects I was excited about  before Boston have not been compatible with warm weather, ironman training, and a busier-than-usual summer at work. But shorter days are signaling the demise of summer, and I find myself in a 5-week limbo between Ironman Muskoka and the Chicago marathon - a good time to retool and attend to everything that has taken a backseat to training over the past four months. 
 
@@ -35,7 +34,7 @@ A steep little jaunt up to the resort, trying to control my uncontrollable shive
 
 ## Bike
 
-![Sweet Betty Designs kit!](/assets/bike.jpeg){: .center-image }
+![Sweet Betty Designs kit!](bike.jpeg)
 
 * **Predominant feeling**: Dead heat between joy and bodily pain. 
 * **Equipment**: Argon 18 Krypton road bike with aerobars.
@@ -52,7 +51,7 @@ My transitions may generously be described as amateurish. I hopped off my bike a
 
 ## Run
 
-![Sponge-Bob Rectangle Pants, my trusted ally.](/assets/run.jpeg){: .center-image }
+![Sponge-Bob Rectangle Pants, my trusted ally.](run.jpeg)
 
 * **Predominant feeling**: Gratitude
 * **Equipment**: Skechers GoRun 4 shoes
@@ -69,7 +68,7 @@ I was really pleased with how I executed the run. My only regret would be in the
 
 ## Epilogue
 
-![Celebrating with my biggest fan.](/assets/postim.jpeg){: .center-image }
+![Celebrating with my biggest fan.](postim.jpeg)
 
 This was an amateur-only race so I was able to sneak into the top 10 overall, 4th in my age group. Going into the race I'd considered that there might be the possibility of a Kona spot, but there were some stand-out girls in my age group with a lot more experience (apart from a sprint in Bermuda my last triathlon was 6 years ago). I didn't think I cared that much about getting a spot - it would be an expensive trip and probably not my kind of race - but when I was up there and it rolled down to 3rd, I must admit to being more than a little disappointed. The overall and AG winner turned down her spot, and when it came down to the 3rd place girl she asked why, and it was because she was already going this year. Third place girl replied that she too was going this year, and in an entirely irrational reaction I was annoyed by this. She has every right to claim a spot for next year, and I might do the same thing if I were in her shoes. Nonetheless it sparked a little competitive fire in me, and I'm now determined to race another one and see what I can do. I'm going to do it right this time - get a coach, train through the winter, get my equipment squared away, do some warm-up races and really put my heart into it. With the exchange rate being what it is I'm thinking of sticking to home soil with Mont Tremblant. Only 349 days to go!
 

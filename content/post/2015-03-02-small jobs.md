@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Small Jobs
+title: small jobs
+date: "2015-03-02"
 ---
 
 The first races in the local running series took place last weekend - the aptly named Re-Fridgee-Eighter 8 mile and 8 km races. These are fun, non-standard distances and I signed up for the 8 miler. This was the first race shorter than a half-marathon I've done in a while. To be honest I'm a little frightened of shorter races - I find the prospect of really hard running more daunting than the challenge of longer distances. For me the marathon is still about overcoming the distance, of not slowing down in the last quarter of the race. That comes with its own unpleasantness, but for me the mental effort of willing myself to keep going in the final miles of a marathon is preferable to the effort required to keep going _fast_ in shorter races. That being said the 8 miler was a lot of fun, and it's nice to feel stronger after having completed a race rather than the worn-down and totally depleted post-marathon state.

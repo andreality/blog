@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on Andreality</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on Andreality</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sunk costs, expected value, and thinking like an economist</title>
+      <link>/2017/05/18/sunk-costs-expected-value-and-thinking-like-an-economist/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/18/sunk-costs-expected-value-and-thinking-like-an-economist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

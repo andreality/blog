@@ -1,0 +1,26 @@
+---
+layout: post
+title: Schrödinger's Stress Fracture
+---
+
+It's incredible what a week off from running can do. On the one hand I feel like I have so much energy I want to run 50 miles at marathon pace, while on the other my body seems to have forgotten all movement patterns associated with running. I used to experience this with swimming all the time - a couple of missed practices due to illness and my feel for the water vanished, at least for a day or two.
+
+I felt a bit of quad soreness on my easy Tuesday morning run last week, cut it short and decided to take the next day off. Unexpectedly I was much more sore the next day, and I was more than a bit concerned that this was a stress fracture. Granted any pain in the general vicinity of my previous stress fracture raises this alarm, but there were enough similiarities with how I remember it feeling to be disconcerting. Five-years-ago-Andrea would have ignored these trifling pains and continued to run, but luckily I'm more wise -  if not less headstrong - than I was back then. Looking at my training log from that time, there are three weeks where every entry contains some mention of the state of my upper leg, from mildly annoying to debilitatingly painful. It seems crazy to me now that I continued to run through it, 20-milers and all, but I'm going to blame such delusions on my 15-year injury-free swimming career. 
+
+Back to the current time, I was satisfied that a seven day break was more than conservative, so I ventured out for a tentative test run on Wednesday morning. I must admit I was fairly anxious about it, being both eager to find out if it was "nothing", and deeply worried that it was, in fact, something. 
+
+It's like Schrödinger's cat, the thought experiment in which a poor little kitty is placed in a box, rigged with poison set to release when a radioactive atom decays. Kitty's fate is tied to a quantum system, which the theory goes can exist in a superposition of multiple states until it is observed. There are various experiments of which I'm not smart enough to speak indicating that photons traveling through an apparatus of slits and beam splitters can behave like a particle or a wave depending on whether or not we observe their path. The mere act of observing collapses the state of indeterminacy into one of the possible outcomes. I think Schrödinger was trying to highlight the absurdity of this notion by translating it to a macro level; if the quantum system is in a state of superposition, and box-cat's survival depends on this state, then box-cat himself will be simultaneously dead and alive until we open the lid to find out. 
+
+[![Schrodinger's Birthday](/assets/schrodingers-present.gif)](http://www.toothpastefordinner.com/062309/schrodingers-present.gif){: .center-image }
+
+In the same way I felt that until I tested out my leg on a run I could hang out in a limbo of being both injured and not-injured. I didn't want to open up the lid and find a dead cat, or in this case feel a pain that would be unmistakeable as a stress fracture. That's pure irrational silliness of course, but I was reluctant to sacrifice all hope of running Boston. 
+
+Two runs and 10 miles later and I don't think it's nothing, but I'm less worried about it being a stress fracture for the moment. I have a mental checklist of everything I remember feeling with the stress fracture, and I can't help starting each day with a short assessment of how many criteria this current injury satisfies or violates. I'm subjecting big A to unnecessary drama as my outlook swings from "let's order some crutches" one day to "I think I'll run tomorrow" the next. This alone is reason enough to book an appointment with a sports med doctor as soon as possible, if only to save him from this barrage of contradictions. 
+
+I'm fond of the strategy of contemplating the worst-case scenario when there's something that's worrying me. I think I first read of this in Oliver Burkeman's book _The Antidote_.  If you imagine the worst possible outcome, and how you would cope with it and carry on in its aftermath, then any other realization will also be manageable. Sometimes the worst case scenario may be truly awful, but other times you may find it's actually not that bad, and the initial worry was largely unfounded. In my case there are three general outcomes:
+
+1. My injury resolves itself completely in the next week or so, I continue running and am perfectly healthy when I toe the line in Boston.
+2. I feel better in time for the marathon, but not confident enough to really push it. I run the race for fun and head down to Buffalo in May for another shot.
+3. Despite my awesome powers of self-diagnosis, it turns out I do indeed have a stress fracture, or some other serious injury that requires substantial time off. Boston is out, and I spectate rather that participate. We have a nice vacation, I focus on cycling or swimming for a while and then slowly build my way back for subsequent races.
+
+Option 3 is far from terrible. I have a hard time feeling sorry for myself with that as my worst case scenario. I'll allow myself a little bit of disappointment if I'm not able to run Boston, but I'm forced to cut it short of anything close to self-pity. The worst outcome in this case is less like a dead cat than one with a mild case of the sniffles.

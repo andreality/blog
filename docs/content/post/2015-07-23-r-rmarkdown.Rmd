@@ -1,0 +1,12 @@
+---
+title: "sunk costs, expected value, and thinking like an economist"
+author: "andrea"
+date: 2017-05-18
+categories: ["thoughts", "programming"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+

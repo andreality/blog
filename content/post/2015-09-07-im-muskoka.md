@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ironman Muskoka Race Report
+date:"2015-09-07T21:49:57-07:00"
 ---
 
 ![Neglecterinos](/assets/neglecterino.jpg){: .center-image }
